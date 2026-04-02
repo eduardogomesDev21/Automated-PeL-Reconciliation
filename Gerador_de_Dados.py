@@ -26,6 +26,6 @@ def gerar_massa_xp(n_linhas=10000):
     df.loc[idx_critico, 'pnl_reportado'] += np.random.uniform(101.0, 5000.0, len(idx_critico)).round(2)
     
     df.to_csv('base_operacoes_xp.csv', index=False)
-    print("✅ Massa de dados com 10.000 operações gerada com sucesso!")
+    print(" Massa de dados com 10.000 operações gerada com sucesso!")
 
 gerar_massa_xp()
