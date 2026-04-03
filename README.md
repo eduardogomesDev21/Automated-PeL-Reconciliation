@@ -40,7 +40,6 @@ Abaixo, o resultado da execução processando operações de ativos como PETR4, 
 
 <img width="1061" height="498" alt="image" src="https://github.com/user-attachments/assets/2b308352-3584-46a5-b2c5-533fdbeea266" />
 
-💡 Dica: Você pode arrastar a imagem do print direto para o editor do GitHub e ele criará o link automaticamente.
 
 ⚙️ Thresholds de Risco Configurados
 | Status   | Diferença Absoluta  | Ação                                            |
